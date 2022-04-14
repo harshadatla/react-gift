@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "emailjs-com": "^2.3.2",
     "mailgun-js": "^0.22.0",
     "react": "^16.8.6",
